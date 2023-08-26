@@ -5750,7 +5750,7 @@ const defaultOptions = {
 };
 {
   defaultOptions.defaultUrl = {
-    value: "compressed.tracemonkey-pldi-09.pdf",
+    value: "list.pdf",
     kind: OptionKind.VIEWER
   };
   defaultOptions.disablePreferences = {
